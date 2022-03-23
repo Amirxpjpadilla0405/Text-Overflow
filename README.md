@@ -1,0 +1,2 @@
+# Text-Overflow
+p.test1 {   white-space: nowrap;   width: 200px;   border: 1px solid #000000;   overflow: hidden;   text-overflow: clip; }  p.test2 {   white-space: nowrap;   width: 200px;   border: 1px solid #000000;   overflow: hidden;   text-overflow: ellipsis; }
